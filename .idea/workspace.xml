@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aff2bfe9-613e-42ba-991e-7fe6b27f9bbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Benchmark_report" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/225.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/232.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/509.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/Counting 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/Counting 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/Counting 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/QuickSort 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode tasks/Top K Frequent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Benchmarks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_node.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Staсk_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_benchmarks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_funcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_sorts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uv.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="36DA4TeYlkbKjg4E0aYfCxBP80d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff2bfe9-613e-42ba-991e-7fe6b27f9bbc" name="Changes" comment="" />
+      <created>1764530576223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764530576223</updated>
+    </task>
+    <servers />
+  </component>
+</project>
