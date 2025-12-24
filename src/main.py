@@ -7,9 +7,9 @@ from sorts import (
     bucket_sort,
     heap_sort,
 )
-from Stack_node import Stack_node
-from Staсk_list import Stack_lst
-from Stack_queue import Stack_q
+from Stack.Stack_node import Stack_node
+from Stack.Staсk_list import Stack_lst
+from Stack.Stack_queue import Stack_q
 from Benchmarks import timeit_once, benchmark_sorts
 import random
 
@@ -79,8 +79,9 @@ def main() -> None:
             print(
                 "Введите число n - n-ый член последовательности Фибоначчи и n-факториал. "
             )
-    print(factorial(n), factorial_recursive(n), fib(n), fibo_recursive(n), end="\n\n")
-
+    print(
+        factorial(n), factorial_recursive(n), fib(n), fibo_recursive(n), end="\n\n"
+    )  # n-ый член последовательности Фибоначчи и факториал n
     arr1 = rand_int_array(30, -444444, 444444)
     arr2 = rand_int_array(30, -444444, 444444)
     arr3 = rand_int_array(30, -444444, 444444)
@@ -93,7 +94,7 @@ def main() -> None:
         print("buckets = None. ")
         buckets = None
 
-    print(
+    print(  # Время работы каждой сортировки
         "Bubble Sort: ",
         bubble_sort(arr1),
         f"time: {timeit_once(bubble_sort, arr1)}",
@@ -116,7 +117,7 @@ def main() -> None:
         end="\n\n",
     )
 
-    while True:
+    while True:  # Тестируем три вида стека
         string = input(
             "Введите, какой стек хотите протестировать: Node Stack, List Stack или же Queue Stack? Для выхода из программы напишите quit. "
         )
@@ -164,7 +165,7 @@ def main() -> None:
                     "Неверная команда. Используйте команды из списка push, pop, peek, is_empty, len, min. Для выхода из тестирования стека напишите quit."
                 )
 
-    len_lst, pointer = [], 0
+    len_lst, pointer = [], 0  # Тестируем сортировки
     while True:
         try:
             count = int(input("Введите положительное количество списков с числами: "))
