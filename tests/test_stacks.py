@@ -1,7 +1,7 @@
 import pytest
-from Stack_node import Stack_node
-from Staсk_list import Stack_lst
-from Stack_queue import Stack_q
+from src.Stack.Stack_node import Stack_node
+from src.Stack.Staсk_list import Stack_lst
+from src.Stack.Stack_queue import Stack_q
 
 
 def Stack_methods(StackClass):

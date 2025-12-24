@@ -1,5 +1,5 @@
 import pytest
-from sorts import (
+from src.sorts import (
     bubble_sort,
     quick_sort,
     counting_sort,

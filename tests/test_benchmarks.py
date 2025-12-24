@@ -1,5 +1,5 @@
-from Benchmarks import timeit_once, benchmark_sorts
-from sorts import bubble_sort, quick_sort
+from src.Benchmarks import timeit_once, benchmark_sorts
+from src.sorts import bubble_sort, quick_sort
 
 
 def test_timeit_once():

@@ -1,4 +1,4 @@
-from funcs import factorial, factorial_recursive, fib, fibo_recursive
+from src.funcs import factorial, factorial_recursive, fib, fibo_recursive
 
 
 def test_factorial():
